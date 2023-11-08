@@ -1,2 +1,3 @@
 # Wordle-Game
-A dynamic and engaging game that meticulously emulates Wordle, showcasing proficiency in backend development and innovative interactive design.
+Created a dynamic/engaging game that emulates Wordle, showcasing proficiency in application development and innovative interactive design, utilizing various data structures and algorithms.
+
